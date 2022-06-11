@@ -2,7 +2,7 @@
 
 - I am software developer experienced in systems software development.
 - I enjoy working with multifunctional teams. I love VR
-- I am currently learning VR development with Unity, React and AWS technologies 
+- I am currently learning VR development with Unity. And also React and AWS technologies for my personal web projects.
 - You can find me on [Twitter](https://twitter.com/BurakUnaltay) and [LinkedIn](https://www.linkedin.com/in/burakunaltay/) or if you want check out my [Personal Webpage](https://www.burakunaltay.com)
 
 <!--
