@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+# I am software developer experienced in systems software development.
+# I enjoy working with multifunctional teams. I love **VR**.
+# I am currently learning VR development with Unity, React and AWS technologies 
+# You can find me on [Twitter](https://twitter.com/BurakUnaltay) or [LinkedIn](https://www.linkedin.com/in/burakunaltay/).
+
 <!--
 **burakunaltay/burakunaltay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
